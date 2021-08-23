@@ -19,4 +19,19 @@
           category: "Sport",
           value: 1400,
         },
+        {
+          date: "12.04.2020",
+          category: "Internet",
+          value: 100,
+        },
+        {
+          date: "12.03.2020",
+          category: "Food",
+          value: 180,
+        },
+        {
+          date: "11.03.2020",
+          category: "Sport",
+          value: 1400,
+        },
       ];
